@@ -1,8 +1,8 @@
 Bom dia <3
 
-- 🌱 Learning Java
-- 📫 Reach me: filipeandrade.work@gmail.com
-- ⚡ Fun fact: Iphone Hater
+- 🌱 Let's Build Software together brother
+- 📫 Reach me: dev.filipeandrade@gmail.com
+- ⚡ Fun fact: Previous Linux Hater, now my friends convinced me that it's just superior tecnology
 
 <div align="center">
   <a href="https://github.com/andrade-filipe">
