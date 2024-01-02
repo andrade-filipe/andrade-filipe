@@ -2,7 +2,7 @@ Bom dia <3
 
 - 🌱 Let's build software together!!
 - 📫 Reach me: dev.filipeandrade@gmail.com
-- ⚡ Fun fact: Previous Linux Hater, now my friends convinced me that it's just superior tecnology. Now i'm Windows Hater.
+- I do Freelance jobs!
 
 <div align="center">
   <a href="https://github.com/andrade-filipe">
