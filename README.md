@@ -1,8 +1,8 @@
 Bom dia <3
 
 - 🌱 Let's build software together!!
-- 📫 Reach me: dev.filipeandrade@gmail.com
-- I do Freelance jobs!
+- 📫 Reach me: filipeandrade.work@gmail.com
+- I Want a Job!!!
 
 <div align="center">
   <a href="https://github.com/andrade-filipe">
