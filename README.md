@@ -2,7 +2,6 @@ Bom dia <3
 
 - 🌱 Let's build software together!!
 - 📫 Reach me: filipeandrade.work@gmail.com
-- I Want a Job!!! Resumes: https://github.com/andrade-filipe/curriculum/tree/main/curriculum
 
 <div align="start">
   <a href="https://github.com/andrade-filipe">
