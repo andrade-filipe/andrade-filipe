@@ -3,25 +3,12 @@
 └─$ whoami
 filipe-andrade
 ```
-<div align=¨left¨>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+my+terminal!;Full+Stack+Developer;Software+Engineer;Let's+build+amazing+things!" alt="Typing SVG" />
-
-<img src="https://raw.githubusercontent.com/andrade-filipe/andrade-filipe/main/assets/terminal.gif" alt="Terminal Animation" width="600"/>
-</div>
-
 </div>
 
 ```bash
 ┌─[filipe@andrade-dev]─[~]
 └─$ echo "Full Stack Developer | Software Engineer"
 ```
-
-<div align="left">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Currently+working+on+awesome+projects;Always+learning+new+technologies;Passionate+about+code" alt="Status" />
-
-</div>
-
 ```bash
 ┌─[filipe@andrade-dev]─[~]
 └─$ ls -la skills/
