@@ -53,11 +53,6 @@ filipe-andrade
 
 ```bash
 ┌─[filipe@andrade-dev]─[~]
-└─$ systemctl status projects
-```
-
-```bash
-┌─[filipe@andrade-dev]─[~]
 └─$ ping social-networks
 ```
 
